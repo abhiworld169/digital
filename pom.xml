@@ -10,7 +10,7 @@
     <version>0.7-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>AEM Twitter Integration - Reactor Project</name>
+    <name>AEM Twitter Integration</name>
     <description>Maven Multimodule project for AEM Twitter Integration.</description>
 
     <prerequisites>
